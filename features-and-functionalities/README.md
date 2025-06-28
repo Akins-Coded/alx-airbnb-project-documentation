@@ -102,7 +102,7 @@ GOOGLE_CLIENT_ID=
 | Send Message         | `/api/messages/`                          | POST   | ✅              | Send message to another user             |
 | Admin Panel          | `/admin/`                                 | GUI    | ✅ (admin)      | Django admin dashboard                   |
 
-> This is a base version. Endpoint paths may vary depending on your `urls.py`.
+> This is a base version. Endpoint paths may vary depending on the `urls.py` file.
 
 ---
 
